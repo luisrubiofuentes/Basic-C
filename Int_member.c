@@ -25,12 +25,12 @@ int main(){
 int member(int elem, int arr[], int lon){
 
    int result=0;
-   if(lon==0){ /*Es cierto que solo debe haber un resturn,pero aquí se dejan 2 por ser tratamiento de errores*/
+   if(lon==0){ /*Es cierto que solo debe haber un resturn,pero aquÃ­ se dejan 2 por ser tratamiento de errores*/
     return 0;
    }
 
 for(int i=0;i<lon && !result;i++){
-/*Importante para que sea más optimo el && del for*/
+/*Importante para que sea mÃ¡s optimo el && del for*/
     if(arr[i]==elem)
         result=1;
 }
