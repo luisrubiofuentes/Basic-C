@@ -5,7 +5,7 @@ int main()
 
     int base;
 
-    printf("\nIntroduce la base del tri·ngulo a calcular: ");
+    printf("\nIntroduce la base del tri√°ngulo a calcular: ");
     scanf("%d", &base);
 
     for (int i=0; i<base; i++)
