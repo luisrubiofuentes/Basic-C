@@ -5,7 +5,7 @@ int main()
 
     int numero=0;
 
-    printf ("\n Escribe un nº entre 1 y 12 ");
+    printf ("\n Escribe un nÂº entre 1 y 12 ");
     scanf("%d", &numero);
 
     switch (numero)
