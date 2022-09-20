@@ -7,7 +7,7 @@ int mes=0, agno=0;
 printf ("\n Introduce tu numero de mes: ");
 scanf("%d",&mes);
 
-printf ("\nIntroduce un año: ");
+printf ("\nIntroduce un aÃ±o: ");
 scanf("%d",&agno);
 
 if (agno%4==0 && agno%100!=0 || agno%100==0 && agno%400==0){
