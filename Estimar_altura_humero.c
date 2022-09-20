@@ -18,7 +18,7 @@ int media_m_hombre,media_cm_hombre;
 printf ("\nLongitud del femur: ");
 scanf("%d", &femur_pulga);
 
-printf ("\nLongitud del húmero: ");
+printf ("\nLongitud del hÃºmero: ");
 scanf("%d", &humero_pulga);
 
 altura_mujer_femur=(femur_pulga*1.94 +28.7)*2.54;
