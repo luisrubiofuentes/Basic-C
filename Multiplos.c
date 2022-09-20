@@ -13,12 +13,12 @@ scanf("%d",&numero2);
 
 if (numero%numero2==0){
 
-    printf ("\n %d es múltiplo de %d", numero,numero2);
+    printf ("\n %d es mÃºltiplo de %d", numero,numero2);
 }
 
 else if (numero2%numero==0){
 
-    printf (" \n %d es múltiplo de %d", numero2,numero);
+    printf (" \n %d es mÃºltiplo de %d", numero2,numero);
 }
 else {
     printf("No es nada.");
