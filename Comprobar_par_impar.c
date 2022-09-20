@@ -12,7 +12,7 @@ int main()
 
     printf ("%d", y);
 
-    if((y%2)==0)            /*También valdría "  !(x%2) */
+    if((y%2)==0)            /*TambiÃ©n valdrÃ­a "  !(x%2) */
     {
         printf("\nEste numero es par");
     }
