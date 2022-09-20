@@ -5,7 +5,7 @@
 int memberOrd(int elem, int arr[], int lon);
 
 int main(){
-/*LO TENœA MALLLLLL*/
+/*LO TEN√èA MALLLLLL*/
 
     int v[]={1,12,20,22,40,41,42};
 
