@@ -29,7 +29,7 @@ int main()
     }
     while (numero !=0);
 
- printf("El número mayor es: %d\n", mayor);
- printf("El número menor es: %d\n", menor);
+ printf("El nÃºmero mayor es: %d\n", mayor);
+ printf("El nÃºmero menor es: %d\n", menor);
 printf ("La media es: %lf",(suma/i));
 }
